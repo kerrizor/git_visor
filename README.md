@@ -1,6 +1,6 @@
 # GitVisor
 
-TODO: Write a gem description
+git_visor creates visualizations based on git repo logs.
 
 ## Installation
 
